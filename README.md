@@ -14,7 +14,12 @@ vsce package
 
 * 보다 자세한 사항은 다음 페이지 참고
 
+  + extension-packs 
+> [extension-packs](https://code.visualstudio.com/api/references/extension-manifest#extension-packs)
+
+  + publishing-extension 
 > [publishing-extension](https://code.visualstudio.com/api/working-with-extensions/publishing-extension)
+
 
 ## Working with Markdown
 

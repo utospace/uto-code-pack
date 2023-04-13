@@ -1,5 +1,21 @@
 # utospace README
 
+> Install
+
+```sh
+npm install -g yo generator-code @vscode/vsce
+```
+
+> Package
+
+```sh
+vsce package
+```
+
+* 보다 자세한 사항은 다음 페이지 참고
+
+> [publishing-extension](https://code.visualstudio.com/api/working-with-extensions/publishing-extension)
+
 ## Working with Markdown
 
 You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
